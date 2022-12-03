@@ -1,4 +1,4 @@
-# Hello 👋🏾 👩🏾‍💻
+# Hello 👋👨‍🏫
 
 Hi! I'm a full-stack developer with 5 years of experience developing web applications and corporate platforms for the financial sector, using technologies such as Angular, Spring Boot, NET Core, Node js, and different database managers. I am deepening the principles of SOLID, Hexagonal Architecture, Testing, CQRS, and domain-oriented design.
 
